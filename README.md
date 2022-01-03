@@ -9,6 +9,9 @@ Le rapport plus détaille est contenu dans le fichier "Rapport.docx"
 -lscpu de mon ordinateur 
 
 CPU(s):              8
+
 Thread(s) per core:  2
+
 Core(s) per socket:  4
+
 Model name:          Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
