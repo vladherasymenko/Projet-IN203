@@ -15,3 +15,9 @@ Thread(s) per core:  2
 Core(s) per socket:  4
 
 Model name:          Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+
+LEVEL1_ICACHE_SIZE                 32768
+
+LEVEL2_CACHE_SIZE                  262144
+
+LEVEL3_CACHE_SIZE                  8388608
