@@ -2,7 +2,7 @@
 
 Chaque fichier du format ".cpp" représente une question (ou une sub-question) distincte : par exemple, le fichier simulation_2.4.1.cpp contient la solution de la question 2.4, la partie 1. 
 
-Le fichier "grille.hpp", ainsi que les "makefiles" ont été legèrement modifié et, donc, sont téléversés aussi. 
+Le fichier "grille.hpp", ainsi que les "makefiles" ont été legèrement modifiés et, donc, sont téléversés aussi. 
 
 Le rapport plus détaille est contenu dans le fichier "Rapport.docx"
 
